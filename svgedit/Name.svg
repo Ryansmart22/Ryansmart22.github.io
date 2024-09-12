@@ -1,0 +1,12 @@
+<svg width="640" height="480" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg">
+ <!-- Created with SVG-edit - https://github.com/SVG-Edit/svgedit-->
+ <g class="layer">
+  <title>Layer 1</title>
+  <ellipse cx="475.06" cy="161.02" fill="#FF0000" id="svg_1" rx="165.25" ry="223.94" stroke="#000000" stroke-width="5" transform="matrix(1 0 0 1 0 0) matrix(-0.0137918 0.999905 -0.999905 -0.0137918 494.057 -244.289)"/>
+  <rect fill="#3f007f" height="58" id="svg_2" stroke="#000000" stroke-width="5" transform="rotate(63.2962 163.5 43.5) matrix(0.0289476 -0.642419 0.926323 0.0200756 -73.6952 174.604)" width="106" x="158.87" y="220.44">Ryan Smart</rect>
+  <text fill="#000000" font-family="Serif" font-size="24" id="svg_4" stroke="#000000" stroke-width="0" text-anchor="middle" transform="matrix(1 0 0 1 0 0) matrix(3.38241 0 0 3.28685 -368.055 -69.8116)" x="206.31" xml:space="preserve" y="82.12">Ryan Smart</text>
+  <text fill="#000000" font-family="Serif" font-size="24" id="svg_5" stroke="#000000" stroke-width="0" text-anchor="middle" transform="matrix(1 0 0 1 0 0) matrix(1.74511 0 0 2.81923 -277.288 -291.507)" x="345.99" xml:space="preserve" y="203.25">September 12 2024</text>
+  <path d="m45,134c0,0 73,19 73,19c0,0 -86,76 -86,76c0,0 13,-95 13,-95z" fill="#00bbff" id="svg_6" stroke="#000000" stroke-width="5" transform="matrix(1 0 0 1 0 0) rotate(-17.7447 75 181.5)"/>
+  <path d="m525.36,126.04l51.5,-90.13l51.5,90.13z" fill="#020100" id="svg_7" stroke="#000000" stroke-width="5" transform="matrix(1 0 0 1 0 0)"/>
+ </g>
+</svg>
