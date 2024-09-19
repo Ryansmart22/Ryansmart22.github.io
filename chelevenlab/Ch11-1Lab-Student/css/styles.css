@@ -1,0 +1,40 @@
+/* Ryan Smart
+September 19 2024 */
+
+/*unvisited link */
+a:link {
+    color: #a6ff00;
+}
+
+/* visited link*/
+a:visited {
+    color: #ff0080;
+}
+
+/* mouse over link */
+a:hover {
+    color: #3700ff;
+}
+
+/* selected link */
+a:active{
+    color: #cc8222;
+}
+
+.article-header{
+    background-color: darkslategray;
+}
+
+footer{
+    background-color: darkslategray;
+}
+p{
+
+    font-size: 20px;
+}
+ul{
+    font-size: 20px;
+}
+li{
+    font-size: 20px;
+}
