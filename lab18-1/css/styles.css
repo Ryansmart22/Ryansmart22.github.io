@@ -1,0 +1,9 @@
+img {
+    font-size: 1.5rem;
+    padding: 5px;
+    transition: all is ease-out;
+}
+
+img:hover {
+    width: 350px;
+}
