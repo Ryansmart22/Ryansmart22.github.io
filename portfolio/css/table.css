@@ -1,0 +1,11 @@
+table {
+    caption-side: top;
+    margin: auto;
+    padding: auto;
+}
+th {
+   font-weight: bold;
+}
+tbody{
+    font-style: italic;
+}
