@@ -1,0 +1,14 @@
+/* Ryan Smart
+   December 1st */
+
+table {
+    caption-side: top;
+    margin: auto;
+    padding: 10px;
+}
+th {
+   font-weight: bold;
+}
+tbody{
+    font-style: italic;
+}
