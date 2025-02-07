@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css2?family=Imperial+Script&display=swap');
+h1 {
+    font-family: "Imperial Script", serif;
+    text-align: center;
+    font-weight: bold;
+}
+
+h4{
+    font-family: "Imperial Script", serif;
+    font-weight: 600;
+    font-style: normal;
+    font-size: 38px;
+}
+
+nav li {
+    font-family: "Imperial Script", serif;
+    font-weight: 600;
+    font-size: 28px;
+}
+
+p {
+    font-family: "Imperial Script", serif;
+    font-weight: 600;
+    font-style: normal;
+    font-size: 36px;
+  }
+#banner{
+    background-color: #05472A;
+  }
+  main {
+    background-color: #F5F5DC;
+  }
+
+  body {
+    background-color: #87CEEB;
+  }
+  footer{
+    background-color: #E2725B;
+  }
