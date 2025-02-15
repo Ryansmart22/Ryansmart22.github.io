@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Gallery</title>
+    <meta name="author" content="Ryan Smart">
+    <meta charset="UTF-8">
+    <meta name="description" content="Page for displaying the pictures of photoshoots">
+        <meta name="keywords" content="Photos, Trees">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="css/gallery.css">
+</head>
+<body>
+        <header>
+        <h1>Welcome to the Gallery</h1>
+        <nav id="banner">
+          <ul>
+              <li><a href="index.html">Home</a></li>
+              <li><a href="gallery.html">Gallery</a></li>
+              <li><a href="contact.html">Contact Me</a></li>
+          </ul>
+      </nav>
+      </header>
+<main>
+    <div class="gallery-container">
+        <div class="main-image">
+            <button class="nav-btn left" onclick="prevImage()">&#10094;</button>
+            <img id="displayedImage" src="Media/trees.jpg" alt="Evergreen Forest Image">
+            <button class="nav-btn right" onclick="nextImage()">&#10095;</button>
+        </div>
+        <div class="thumbnail-container">
+            <img class="thumbnail" src="Media/springtime.jpg" alt="Springtime Forest" onclick="changeImage(0)">
+            <img class="thumbnail" src="Media/summertime.jpg" alt="Summertime" onclick="changeImage(1)">
+            <img class="thumbnail" src="Media/falltime.jpg" alt="Falltime" onclick="changeImage(2)">
+            <img class="thumbnail" src="Media/trees.jpg" alt="Wintertime" onclick="changeImage(3)">
+        </div>
+    </div>
+</main>
+    <script src="js/gallery.js"></script>
+</body>
+</html>

@@ -1,0 +1,133 @@
+@import url('https://fonts.googleapis.com/css2?family=Imperial+Script&display=swap');
+h1 {
+    font-family: "Imperial Script", serif;
+    text-align: center;
+    font-weight: bold;
+}
+
+h4{
+    font-family: "Imperial Script", serif;
+    font-weight: 600;
+    font-style: normal;
+    font-size: 38px;
+}
+
+nav li {
+    font-family: "Imperial Script", serif;
+    font-weight: 600;
+    font-size: 28px;
+    display: inline;
+}
+
+p {
+    font-family: "Imperial Script", serif;
+    font-weight: 600;
+    font-style: normal;
+    font-size: 36px;
+  }
+#banner{
+    background-color: #05472A;
+  }
+  main {
+    background-color: #F5F5DC;
+  }
+
+  body {
+    background-color: #87CEEB;
+  }
+  footer{
+    background-color: #E2725B;
+  }
+
+  body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-color: #f4f4f4;
+}
+
+.gallery-container {
+    max-width: 600px;
+    margin: 50px auto;
+    background: white;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
+    position: relative;
+}
+
+.main-image {
+    position: relative;
+}
+
+.main-image img {
+    width: 100%;
+    height: auto;
+    border-radius: 8px;
+}
+
+.thumbnail-container {
+    margin-top: 10px;
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+}
+
+.thumbnail {
+    width: 80px;
+    height: 60px;
+    cursor: pointer;
+    border: 2px solid transparent;
+    transition: border 0.3s;
+}
+
+.thumbnail:hover {
+    border: 2px solid #007BFF;
+}
+
+.nav-btn {
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    background-color: rgba(0, 0, 0, 0.5);
+    color: white;
+    border: none;
+    font-size: 24px;
+    padding: 10px;
+    cursor: pointer;
+    border-radius: 50%;
+}
+
+.nav-btn.left {
+    left: 10px;
+}
+
+.nav-btn.right {
+    right: 10px;
+}
+
+.nav-btn:hover {
+    background-color: rgba(0, 0, 0, 0.8);
+}
+
+nav {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  padding: 10px 0;
+  text-align: center;
+}
+
+a:link {
+  color: black;
+}
+a:visited{
+color: burlywood;
+}
+
+a:hover{
+color: skyblue;
+}
+a:active{
+color: #05472A;
+}

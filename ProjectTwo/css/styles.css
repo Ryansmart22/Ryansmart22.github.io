@@ -1,0 +1,80 @@
+@import url('https://fonts.googleapis.com/css2?family=Imperial+Script&display=swap');
+h1 {
+    font-family: "Imperial Script", serif;
+    text-align: center;
+    font-weight: bold;
+}
+
+h3{
+  font-size: 28px;
+}
+
+h4{
+    font-family: "Imperial Script", serif;
+    font-weight: 600;
+    font-style: normal;
+    font-size: 38px;
+}
+
+nav li {
+    font-family: "Imperial Script", serif;
+    font-weight: 600;
+    font-size: 28px;
+    display: inline;
+}
+
+p {
+    font-family: "Imperial Script", serif;
+    font-weight: 600;
+    font-style: normal;
+    font-size: 36px;
+  }
+#banner{
+    background-color: #05472A;
+  }
+  main {
+    background-color: #F5F5DC;
+  }
+
+  body {
+    background-color: #87CEEB;
+  }
+  footer{
+    background-color: #E2725B;
+    font-family: "Imperial Script", serif;
+    text-align: center;
+    font-weight: bold;
+    font-size: 28px;
+  }
+
+  nav {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    padding: 10px 0;
+    text-align: center;
+}
+
+.forestfoot{
+  max-width: 20%;
+  max-height: 20%;
+  display: block;
+  margin: auto;
+}
+.footertext{
+  text-align: center;
+}
+a:link {
+    color: black;
+}
+a:visited{
+  color: burlywood;
+}
+
+a:hover{
+  color: skyblue;
+}
+a:active{
+  color: #05472A;
+}
